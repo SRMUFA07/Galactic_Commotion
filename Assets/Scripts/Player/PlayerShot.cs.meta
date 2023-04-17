@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 8c019478ca01c0640b617431b4462e2d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - shotJoystick: {instanceID: 0}
+  - lazer: {fileID: 8624481837567207707, guid: f2eaf1b2f443a4249bfb717b579778e1, type: 3}
+  - gunPoint: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

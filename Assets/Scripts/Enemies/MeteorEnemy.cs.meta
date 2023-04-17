@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 11610d058242a0245bcdf0ff11dc5e25
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - scoreValueCanvas: {instanceID: 0}
+  - cameraShake: {instanceID: 0}
+  - player: {instanceID: 0}
+  - laserHitParticle: {fileID: 8782834491172948645, guid: 0f9611bd4ad5001478f9d3c892156fbe,
+      type: 3}
+  - meteorBrakeParticle: {fileID: 3683180128076965285, guid: 9c91d489432cfe146adac280ad879398,
+      type: 3}
+  - silverCoin: {fileID: 9164423624534452934, guid: 4ac2cd1501e03404daed7b8d560cbc3c,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
