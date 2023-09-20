@@ -1,2 +1,2 @@
 Galactic Commotion app
-not for commercial use
+Not for commercial use
