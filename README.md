@@ -1,2 +1,1 @@
-Galactic Commotion game
-Not for commercial use
+Galactic Commotion app, not for commercial use
